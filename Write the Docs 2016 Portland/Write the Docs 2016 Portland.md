@@ -25,11 +25,11 @@ build-lists: true
 
 ## Interactive document environments?
 
+- Swift Playgrounds
+
 - IPython Notebooks
 
 - Jupyter Notebooks
-
-- Swift Playgrounds
 
 - ...and a few others
 
@@ -57,7 +57,25 @@ build-lists: true
 - each statement is evaluated and displayed
 - designed for prototyping, learning, and experimentation
 - can be paginated
-- supports Markdown 
+- supports Markdown  
+
+---
+
+## IPython Notebooks
+
+- What
+- Do
+- They 
+- Do
+
+---
+
+## Jupyter Notebooks
+
+- What 
+- Do
+- They
+- Do
 
 ---
 
@@ -70,6 +88,34 @@ build-lists: true
 ![inline](images/markdown_playground.png)
 
 ---
+
+## Strengths
+
+- Strengths
+- go
+- here
+
+---
+
+## Weaknesses 
+
+- Weaknesses
+- go
+- here
+
+---
+
+## What's next?
+
+- Where
+- Are
+- Live
+- Documentation
+- Environments
+- Going?
+
+---
+
 ## Thanks!
 
 - Questions?
@@ -77,7 +123,9 @@ build-lists: true
 - Slides and notes available at URL TO COME
 
 
+---
 
+# This is new 
 
 
 
