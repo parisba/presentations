@@ -17,9 +17,29 @@ build-lists: true
 
 ---
 
-![](images/earningswift.jpg)
+![](images/edna.jpg)
+### We Speak Australian
+^ Please tell us if we say something you don't understand
+
+---
+
+![](images/learningswift.jpg)
 
 ^ We think a lot about documentation, as one of the main things we do is write documentation, often in the form of books.
+
+---
+
+![](images/lost.jpg)
+
+### People Get Lost
+
+^ People mess up where they are when moving between the code and the books
+
+---
+
+> Some sort of quote saying it is easy to get lost when reading the book
+
+-- Tech Reviewer
 
 ---
 
@@ -29,7 +49,7 @@ build-lists: true
 
 - IPython Notebooks
 
-- Jupyter Notebooks
+- Project Jupyter
 
 - ...and a few others
 
@@ -40,14 +60,14 @@ build-lists: true
 ---
 ## Swift 
 
-- Introduced 2 years ago by 
+- Introduced 2 years ago by Apple
 - Currently at version 2.2
 - Made open source in December 2015[^1]
 - Apache License 2.0
 - Currently supports OS X and Linux
 - Windows support on the way
 
-[^1]: For more information on the Swift project, check out their website: http://swift-lang.org/
+[^1]: For more information on the Swift project, check out their website: http://swift.org/
 
 ---
 
@@ -55,27 +75,37 @@ build-lists: true
 
 - an interactive Swift coding environment
 - each statement is evaluated and displayed
-- designed for prototyping, learning, and experimentation
+- designed for prototyping, experimentation, and learning
 - can be paginated
 - supports Markdown  
 
 ---
 
-## IPython Notebooks
+![inline 20%](images/IPythonLogo.png)
 
-- What
-- Do
-- They 
-- Do
+IPython has a terrible tiny logo
 
 ---
 
-## Jupyter Notebooks
+## IPython Notebooks
 
-- What 
-- Do
-- They
-- Do
+- Interactive Python coding environment
+- works pretty much the same as Swift Playgrounds
+- designed for academic and scientific documentation
+- Supports text, equations, and graphs
+
+---
+
+![inline](images/jupyter.png)
+
+---
+
+## Project Jupyter
+
+- Successor to IPython
+- Started in 2014
+- Supports multiple languages
+- Otherwise the same as IPython Notebooks
 
 ---
 
@@ -89,30 +119,42 @@ build-lists: true
 
 ---
 
+## Project Jupyter Notebook
+
+put a movie in of this!
+
+---
+
+## Project Jupyter in the Browser
+
+get a movie of http://www.oreilly.com/oriole/
+
+---
+
 ## Strengths
 
-- Strengths
-- go
-- here
+- Code and Docs __literally__ together
+- Can change things on the fly
+- Mixed Media
 
 ---
 
 ## Weaknesses 
 
-- Weaknesses
-- go
-- here
+- Kinda crashy
+- Limited language/framework support
+- Doesn't hook into docs tools
+- Only really works for narratives
 
 ---
 
 ## What's next?
 
-- Where
-- Are
-- Live
-- Documentation
-- Environments
-- Going?
+- Boffin's will fix the tech
+- Be easier to add in new languages & projects
+- This will replace/become books & articles
+- Better support for non-narrative documentation
+- More integration with video and screensharing
 
 ---
 
@@ -120,12 +162,8 @@ build-lists: true
 
 - Questions?
 - Find us on Twitter @the_mcjones and @parisba
-- Slides and notes available at URL TO COME
-
-
----
-
-# This is new 
+- Slides and notes available at:
+https://github.com/parisba/presentations
 
 
 
