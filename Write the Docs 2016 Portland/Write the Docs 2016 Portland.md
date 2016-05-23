@@ -17,7 +17,7 @@ build-lists: true
 
 ---
 
-![](images/edna.jpg)
+![filtered](images/edna.jpg)
 ### We Speak Australian
 ^ Please tell us if we say something you don't understand
 
@@ -37,9 +37,9 @@ build-lists: true
 
 ---
 
-> Some sort of quote saying it is easy to get lost when reading the book
+> I find the documentation and my own notes living alongside the code to be incredibly handy. It means I don't get lost learning this language and the APIs.
 
--- Tech Reviewer
+-- written feedback from our last Swift training, Melbourne, May 2016
 
 ---
 
@@ -109,7 +109,15 @@ IPython has a terrible tiny logo
 
 ---
 
+## Swift Playgrounds
+
+^ Let's take a more detailed look at Swift playgrounds, our favourite example of this sort of thing!
+
+---
+
 ![](videos/playground_intro.mov)
+
+^ This is a quick run-through of 
 
 ---
 
