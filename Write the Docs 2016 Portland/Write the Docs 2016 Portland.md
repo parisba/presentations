@@ -49,7 +49,7 @@ build-lists: true
 
 - IPython Notebooks
 
-- Project Jupyter
+- ... which are now Jupyter Notebooks
 
 - ...and a few others
 
@@ -81,12 +81,6 @@ build-lists: true
 
 ---
 
-![inline 20%](images/IPythonLogo.png)
-
-IPython has a terrible tiny logo
-
----
-
 ## IPython Notebooks
 
 - Interactive Python coding environment
@@ -111,6 +105,7 @@ IPython has a terrible tiny logo
 
 ## Swift Playgrounds
 
+### DEMO
 ^ Let's take a more detailed look at Swift playgrounds, our favourite example of this sort of thing!
 
 ---
@@ -142,8 +137,16 @@ get a movie of http://www.oreilly.com/oriole/
 ## Strengths
 
 - Code and Docs __literally__ together
+- ... also notes by the person reading the docs	
 - Can change things on the fly
 - Mixed Media
+
+---
+
+## Notes and Code and Documentation
+
+- you can mix your notes in with the pre-written documentation
+
 
 ---
 
@@ -153,6 +156,7 @@ get a movie of http://www.oreilly.com/oriole/
 - Limited language/framework support
 - Doesn't hook into docs tools
 - Only really works for narratives
+- Not every language/platform/thing
 
 ---
 
@@ -163,6 +167,15 @@ get a movie of http://www.oreilly.com/oriole/
 - This will replace/become books & articles
 - Better support for non-narrative documentation
 - More integration with video and screensharing
+
+---
+
+## Where to learn more...
+
+- On a Mac? Download Xcode from the App Store
+    - Then play in Playgrounds.
+- On something else? Download IPython
+	- Then ??
 
 ---
 
