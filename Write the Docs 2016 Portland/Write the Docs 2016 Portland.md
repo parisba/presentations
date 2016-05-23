@@ -1,6 +1,7 @@
 footer: Write the Docs PDX 2016
 slidenumbers: true
 build-lists: true
+theme: Merriweather
 
 # [fit] Code the Docs
 
@@ -8,17 +9,22 @@ build-lists: true
 
 ---
 
-![left 75%](images/Tim.jpg) 
+![](images/timandparis.jpg)
 
-![right 75%](images/Paris.jpg) 
+^ Hi, we're Tim and _Paris_, and we're here to talk about code-based documentation.
 
+---
+
+## Tim (unicorn) and Paris (not unicorn)
+
+![](images/timandparis.jpg)
 
 ^ Hi, we're Tim and _Paris_, and we're here to talk about code-based documentation.
 
 ---
 
 ![filtered](images/edna.jpg)
-### We Speak Australian
+### [fit] We Speak Australian
 ^ Please tell us if we say something you don't understand
 
 ---
@@ -31,15 +37,14 @@ build-lists: true
 
 ![](images/lost.jpg)
 
-### People Get Lost
+### [fit] People Get Lost
 
 ^ People mess up where they are when moving between the code and the books
 
 ---
 
-> I find the documentation and my own notes living alongside the code to be incredibly handy. It means I don't get lost learning this language and the APIs.
-
--- written feedback from our last Swift training, Melbourne, May 2016
+> I find the documentation and my own notes living alongside the code to be incredibly handy. It means I don't get lost learning this language and APIs.
+-- feedback Swift training in Melbourne, May 2016
 
 ---
 
@@ -103,22 +108,33 @@ build-lists: true
 
 ---
 
+## Markup in Playgrounds
+
+![inline](images/markdown_playground.png)
+
+^ Comment on Erik's opinions on markdown.
+
+---
+
+![](images/playground.jpg)
+
 ## Swift Playgrounds
 
-### DEMO
 ^ Let's take a more detailed look at Swift playgrounds, our favourite example of this sort of thing!
+
+---
+
+## [fit] Live Demo!
+
+![right fit](images/fine.jpg)
+
+^ DEMO: Newton's Cradle
 
 ---
 
 ![](videos/playground_intro.mov)
 
 ^ This is a quick run-through of 
-
----
-
-## Markup in Playgrounds
-
-![inline](images/markdown_playground.png)
 
 ---
 
@@ -150,9 +166,17 @@ get a movie of http://www.oreilly.com/oriole/
 
 ---
 
+## Live Demo!
+
+![filtered](images/bird.jpg)
+
+^ DEMO: Creating new documentation for something (maths)
+
+---
+
 ## Weaknesses 
 
-- Kinda crashy
+- Kinda crashy...
 - Limited language/framework support
 - Doesn't hook into docs tools
 - Only really works for narratives
@@ -179,10 +203,18 @@ get a movie of http://www.oreilly.com/oriole/
 
 ---
 
+![](images/timandparis2.jpg)
+
+---
+
+![](images/timandparis2.jpg)
+
 ## Thanks!
 
-- Questions?
-- Find us on Twitter @the_mcjones and @parisba
+- Questions? Find us up the front..
+- .. or find us on Twitter!
+    - @the_mcjones (horse)
+	- @parisba (not horse)
 - Slides and notes available at:
 https://github.com/parisba/presentations
 
