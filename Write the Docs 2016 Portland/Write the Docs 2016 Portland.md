@@ -45,23 +45,55 @@ theme: Merriweather
 
 ---
 
+## We're academics
+
+![left](images/phd.jpg)
+
+^ PARIS
+
+---
+
+## We're academics and game developers
+
+![left](images/game.jpg)
+
+^ TIM
+
+---
+
+##  We're academics, game developers, and technical authors
+
+![left](images/authors.jpg)
+
+^ PARIS
+
+---
+
+
+## We're academics, game developers, technical authors, and programming teachers
+
+![left](images/training.jpg)
+
+^ TIM
+
+
+---
+
 ![](images/learningswift.jpg)
 
-^ PARIS: We think a lot about documentation, as one of the main things we do is write documentation, often in the form of books.
+^ PARIS: So think a lot about documentation, but mostly we write a lot of books
 
 ---
 
 ![](images/book1.jpg)
 
-^ TIM: We write a lot of books.
+^ TIM: ... A LOT of books.
 
 ---
 
 ![](images/book2.png)
 
-^ PARIS: ... a lot of books.
-
-^ TIM: And this all started because we wanted a closer linkage between our books and the provided code.
+^ PARIS: ... a really huge amount of books.
 
 ---
 
@@ -69,7 +101,10 @@ theme: Merriweather
 
 ![](images/situation.jpg)
 
-^ TIM: We also present a lot of programmer training workshops, particularly teaching rapidly changing technologies such as game development, and Apple's developer environment –– Swift, previously Objective-C, and APIs like Cocoa and CocoaTouch for Mac and iPhone development.
+^ TIM: and because we also present a lot of programmer training workshops, particularly teaching rapidly changing technologies such as game development, and Apple's developer environment –– Swift, previously Objective-C, and APIs like Cocoa and CocoaTouch for Mac and iPhone development...
+
+^ PARIS: we think a lot about having a closer linkage between our books and the provided code.
+
 
 ---
 
@@ -79,8 +114,6 @@ theme: Merriweather
 
 ^ PARIS: In the last 2 years of teaching these classes, particularly with Swift, Apple's new language, we've noticed that those in the class trying to learn the language have particularly enjoyed one component of the way Apple's frameworks and languages work: Swift Playgrounds.
 
-^ We think a lot about documentation, as one of the main things we do is write documentation, often in the form of books.
-
 ---
 
 ![](images/lost.jpg)
@@ -89,14 +122,19 @@ theme: Merriweather
 
 ^ TIM: People mess up where they are when moving between the code and documentation.
 
+^ PARIS: They have a disconnect between what they see and what they do.
+
 ---
 
-> I find the documentation and my own notes living alongside the code to be incredibly handy. It means I don't get lost learning this language and APIs.
--- feedback from Swift training in Melbourne, May 2016
+![](images/boring.png)
 
-^ PARIS: This is a quote from one of our past training participants.
+^ TIM: Interactive Documentation Environments take boring comment-riddled code, which is hard to read and learn from...
 
-^ TIM: People have a disconnect between what they see and what they do.
+---
+
+![](images/notboring.png)
+
+^ PARIS: And turn it into something with attractive formatting, and more documentation than just comments, whilst still being fully interactive.
 
 ---
 
@@ -353,6 +391,15 @@ theme: Merriweather
 	- or go to: https://try.jupyter.org
 
 ^ best way to learn is to mess around with it
+
+---
+
+## O'Reilly Oriole
+
+- Try Regex Golf:
+    - https://www.oreilly.com/learning/regex-golf-with-peter-norvig
+- Learn more about Oriole:
+    - https://www.oreilly.com/ideas/oreilly-oriole-learn-alongside-innovators-thought-by-thought-in-context
 
 ---
 
