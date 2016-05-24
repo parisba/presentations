@@ -22,20 +22,28 @@ theme: Merriweather
 ![](images/timandparis.jpg)
 
 ^ TIM: I'm Tim
-^ PARIS: And I'm Paris, you can find us on Twitter if you want
+^ PARIS: And I'm Paris, you can find us on Twitter if you want!
 
 ---
 
 ![filtered](images/edna.jpg)
 ### [fit] We Speak Australian
-
-^ Please tell us if we say something you don't understand
+^ PARIS: We speak Australia. 
+^ TIM: Please tell us if we say something you don't understand! 
+^ PARIS: We're really excited to be speaking here, and we're thoroughly enjoying this conference so far.
+^ TIM: Thanks to everyone who makes it happen. *Tim does his bingo joke*
 
 ---
 
 ![](images/learningswift.jpg)
 
-^ We think a lot about documentation, as one of the main things we do is write documentation, often in the form of books.
+^ PARIS: We think a lot about documentation, as one of the main things we do is write documentation, often in the form of books.
+
+---
+
+![](images/)
+
+^ TIM: We write a lot of books.
 ^ all started because we wanted a closer linkage between our books and the provided code
 
 ---
@@ -50,9 +58,12 @@ theme: Merriweather
 
 ^ In the last 2 years of teaching these classes, particularly with Swift, Apple's new language, we've noticed that those in the class trying to learn the language have particularly enjoyed one component of the way Apple's frameworks and languages work: Swift Playgrounds.
 
+^ We think a lot about documentation, as one of the main things we do is write documentation, often in the form of books.
+^ all started because we wanted a closer linkage between our books and the provided code
+
 ---
 
-![](images/lost.jpg)
+![](images/lost.![](images/lost.jpg)
 
 ### [fit] People Get Lost
 
@@ -72,10 +83,9 @@ theme: Merriweather
 
 ^ The more we explored these Interactive Environments –– today we're calling them Interactive Documentation Environments –– the more we thought they were particularly amazing for certain types of technical educational material, teaching, and distributing some types of documentation.
 
-
 ---
 
-## Code + Docs + Notes
+## Interactive document environments?
 
 - Swift Playgrounds
 
@@ -197,10 +207,60 @@ theme: Merriweather
 
 ---
 
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+## [fit] Live Demo!
+
+![left fit](images/dog.jpg)
+=======
+## [fit] Live Demo!
+=======
+## [fit] Live Demo!
+
+![left fit](images/dog.jpg)
+>>>>>>> External Changes
+=======
 ## [fit] Live Demo!
 
 ![left fit](images/dog.jpg)
 
+^ our favourite example is ORMs regex golf video
+^ DEMO: This is a quick run through of a live browser training course talking about regex
+^ http://www.oreilly.com/oriole/
+^ Its based on an XKCD comic
+^ so we go through running each miniscript
+^ we can run the regex to see it fails
+^ meh who cares about fremont
+^ lets see if it works if we add trump in!
+
+---
+>>>>>>> External Changes
+
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+![left fit](images/dog.jpg)
+=======
+## [fit] Live Demo!
+
+![left fit](images/dog.jpg)
+>>>>>>> External Changes
+
+<<<<<<< Local Changes
+^ our favourite example is ORMs regex golf video
+^ DEMO: This is a quick run through of a live browser training course talking about regex
+^ http://www.oreilly.com/oriole/
+^ Its based on an XKCD comic
+^ so we go through running each miniscript
+^ we can run the regex to see it fails
+^ meh who cares about fremont
+^ lets see if it works if we add trump in!
+
+---
+>>>>>>> External Changes
+
+<<<<<<< Local Changes
 ^ our favourite example is ORMs regex golf video
 ^ DEMO: This is a quick run through of a live browser training course talking about regex
 ^ http://www.oreilly.com/oriole/
@@ -221,6 +281,72 @@ theme: Merriweather
 ^ we can run the regex to see it fails
 ^ meh who cares about fremont
 ^ lets see if it works if we add trump in!
+=======
+![](videos/orm_regex.mov)
+
+^ This is a quick run through of a live browser training course talking about regex
+^ http://www.oreilly.com/oriole/
+^ Its based on an XKCD comic
+^ so we go through running each miniscript
+^ we can run the regex to see it fails
+^ meh who cares about fremont
+^ lets see if it works if we add trump in!
+>>>>>>> External Changes
+=======
+^ our favourite example is ORMs regex golf video
+^ DEMO: This is a quick run through of a live browser training course talking about regex
+^ http://www.oreilly.com/oriole/
+^ Its based on an XKCD comic
+^ so we go through running each miniscript
+^ we can run the regex to see it fails
+^ meh who cares about fremont
+^ lets see if it works if we add trump in!
+
+---
+
+![](videos/orm_regex.mov)
+
+^ This is a quick run through of a live browser training course talking about regex
+^ http://www.oreilly.com/oriole/
+^ Its based on an XKCD comic
+^ so we go through running each miniscript
+^ we can run the regex to see it fails
+^ meh who cares about fremont
+^ lets see if it works if we add trump in!
+>>>>>>> External Changes
+=======
+^ our favourite example is ORMs regex golf video
+^ DEMO: This is a quick run through of a live browser training course talking about regex
+^ http://www.oreilly.com/oriole/
+^ Its based on an XKCD comic
+^ so we go through running each miniscript
+^ we can run the regex to see it fails
+^ meh who cares about fremont
+^ lets see if it works if we add trump in!
+
+---
+
+![](videos/orm_regex.mov)
+
+^ This is a quick run through of a live browser training course talking about regex
+^ http://www.oreilly.com/oriole/
+^ Its based on an XKCD comic
+^ so we go through running each miniscript
+^ we can run the regex to see it fails
+^ meh who cares about fremont
+^ lets see if it works if we add trump in!
+>>>>>>> External Changes
+=======
+![](videos/orm_regex.mov)
+
+^ This is a quick run through of a live browser training course talking about regex
+^ http://www.oreilly.com/oriole/
+^ Its based on an XKCD comic
+^ so we go through running each miniscript
+^ we can run the regex to see it fails
+^ meh who cares about fremont
+^ lets see if it works if we add trump in!
+>>>>>>> External Changes
 
 ---
 
