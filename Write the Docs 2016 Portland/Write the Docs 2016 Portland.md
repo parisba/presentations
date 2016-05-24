@@ -25,6 +25,7 @@ theme: Merriweather
 
 ![filtered](images/edna.jpg)
 ### [fit] We Speak Australian
+
 ^ Please tell us if we say something you don't understand
 
 ---
@@ -32,6 +33,7 @@ theme: Merriweather
 ![](images/learningswift.jpg)
 
 ^ We think a lot about documentation, as one of the main things we do is write documentation, often in the form of books.
+^ all started because we wanted a closer linkage between our books and the provided code
 
 ---
 
@@ -40,11 +42,7 @@ theme: Merriweather
 ### [fit] People Get Lost
 
 ^ People mess up where they are when moving between the code and the books
-
----
-
-> I find the documentation and my own notes living alongside the code to be incredibly handy. It means I don't get lost learning this language and APIs.
--- feedback Swift training in Melbourne, May 2016
+^ People have a disconnect between what they see and what they do
 
 ---
 
@@ -73,6 +71,7 @@ theme: Merriweather
 - Windows support on the way
 
 [^1]: For more information on the Swift project, check out their website: http://swift.org/
+^ biased, but we think its the bees knees
 
 ---
 
@@ -82,7 +81,17 @@ theme: Merriweather
 - each statement is evaluated and displayed
 - designed for prototyping, experimentation, and learning
 - can be paginated
-- supports Markdown  
+- supports Markdown (yay?!)
+
+---
+
+## Markup in Playgrounds
+
+![inline](images/markdown_playground.png)
+
+^ Comment on Erik's opinions on markdown.
+^ these are still new
+^ we think it will get support for more later, apple already uses Sphinx
 
 ---
 
@@ -92,6 +101,9 @@ theme: Merriweather
 - works pretty much the same as Swift Playgrounds
 - designed for academic and scientific documentation
 - Supports text, equations, and graphs
+
+^ been around for a while
+^ rarely used to teach
 
 ---
 
@@ -108,11 +120,12 @@ theme: Merriweather
 
 ---
 
-## Markup in Playgrounds
+## Demo-Gods I Summon Thee!
 
-![inline](images/markdown_playground.png)
+![fit right](images/paul.jpg)
 
-^ Comment on Erik's opinions on markdown.
+^ time to be gutsy
+^ that's pjf, a super nice guy
 
 ---
 
@@ -121,6 +134,16 @@ theme: Merriweather
 ## Swift Playgrounds
 
 ^ Let's take a more detailed look at Swift playgrounds, our favourite example of this sort of thing!
+^ we think this basically because they are more or less designed for it
+
+---
+
+## Live Demo!
+
+![filtered](images/bird.jpg)
+
+^ DEMO: Creating new documentation for something (maths)
+^ put a bird on it
 
 ---
 
@@ -129,6 +152,7 @@ theme: Merriweather
 ![right fit](images/fine.jpg)
 
 ^ DEMO: Newton's Cradle
+^ shows off that they are super powerful
 
 ---
 
@@ -138,15 +162,36 @@ theme: Merriweather
 
 ---
 
-## Project Jupyter Notebook
+![](images/jupiter.png)
 
-put a movie in of this!
+## [fit] Project Jupyter
 
 ---
 
-## Project Jupyter in the Browser
+## [fit] Live Demo!
 
-get a movie of http://www.oreilly.com/oriole/
+![left fit](images/dog.jpg)
+
+^ our favourite example is ORMs regex golf video
+^ DEMO: This is a quick run through of a live browser training course talking about regex
+^ http://www.oreilly.com/oriole/
+^ Its based on an XKCD comic
+^ so we go through running each miniscript
+^ we can run the regex to see it fails
+^ meh who cares about fremont
+^ lets see if it works if we add trump in!
+
+---
+
+![](videos/orm_regex.mov)
+
+^ This is a quick run through of a live browser training course talking about regex
+^ http://www.oreilly.com/oriole/
+^ Its based on an XKCD comic
+^ so we go through running each miniscript
+^ we can run the regex to see it fails
+^ meh who cares about fremont
+^ lets see if it works if we add trump in!
 
 ---
 
@@ -157,20 +202,23 @@ get a movie of http://www.oreilly.com/oriole/
 - Can change things on the fly
 - Mixed Media
 
----
-
-## Notes and Code and Documentation
-
-- you can mix your notes in with the pre-written documentation
-
+^ in theory we've had all this for a while but people have only really started using it
 
 ---
 
-## Live Demo!
+![filtered](images/paper.jpg)
 
-![filtered](images/bird.jpg)
+# [fit] You can mix notes, live code, and docs
 
-^ DEMO: Creating new documentation for something (maths)
+^ this was sort of a suprise to us
+^ but we've found people REALLY like being able to do this
+
+---
+
+> I find the documentation and my own notes living alongside the code to be incredibly handy. It means I don't get lost learning this language and APIs.
+-- feedback Swift training in Melbourne, May 2016
+
+^ we are pretty aggressive about asking for feedback, it mostly works
 
 ---
 
@@ -182,11 +230,13 @@ get a movie of http://www.oreilly.com/oriole/
 - Only really works for narratives
 - Not every language/platform/thing
 
+^ for example playgrounds only support markdown
+
 ---
 
 ## What's next?
 
-- Boffin's will fix the tech
+- Boffins will fix the tech
 - Be easier to add in new languages & projects
 - This will replace/become books & articles
 - Better support for non-narrative documentation
@@ -198,8 +248,11 @@ get a movie of http://www.oreilly.com/oriole/
 
 - On a Mac? Download Xcode from the App Store
     - Then play in Playgrounds.
-- On something else? Download IPython
-	- Then ??
+- On something else? Download Jupyter Notebook
+	- The process is complex
+	- The docs for this are bad...
+
+^ best way to learn is to mess around with it
 
 ---
 
