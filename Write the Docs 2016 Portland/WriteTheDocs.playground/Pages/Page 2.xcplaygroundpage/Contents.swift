@@ -21,7 +21,7 @@ class 🐔
 {
     func 🔥() -> String
     {
-        let 🍗 = "Tasty Chicken"
+        let 🍗 = "Terrible Chicken!"
         return 🍗
     }
 }
