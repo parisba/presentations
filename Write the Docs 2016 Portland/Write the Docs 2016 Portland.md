@@ -11,15 +11,18 @@ theme: Merriweather
 
 ![](images/timandparis.jpg)
 
-^ Hi, we're Tim and _Paris_, and we're here to talk about code-based documentation.
+^ PARIS: Hi! We're here to talk about Interactive Code-based Documentation
 
 ---
 
-## Tim (unicorn) and Paris (not unicorn)
+## Tim (unicorn)
+##  Paris (not unicorn)
+### @parisba and @the_mcjones
 
 ![](images/timandparis.jpg)
 
-^ Hi, we're Tim and _Paris_, and we're here to talk about code-based documentation.
+^ TIM: I'm Tim
+^ PARIS: And I'm Paris, you can find us on Twitter if you want
 
 ---
 
@@ -35,11 +38,23 @@ theme: Merriweather
 
 ---
 
+### [fit] The Situation
+
+^ We present a lot of programmer training workshops, particularly teaching rapidly changing technologies such as game development, and Apple's developer environment –– Swift, previously Objective-C, and APIs like Cocoa and CocoaTouch for Mac and iPhone development.
+
+---
+
+### [fit] Code + Docs + Notes?!
+
+^ In the last 2 years of teaching these classes, particularly with Swift, Apple's new language, we've noticed that those in the class trying to learn the language have particularly enjoyed one component of the way Apple's frameworks and languages work: Swift Playgrounds.
+
+---
+
 ![](images/lost.jpg)
 
 ### [fit] People Get Lost
 
-^ People mess up where they are when moving between the code and the books
+^ People mess up where they are when moving between the code and documentation.
 
 ---
 
@@ -48,7 +63,14 @@ theme: Merriweather
 
 ---
 
-## Interactive document environments?
+### [fit] Code + Docs + Notes
+
+^ The more we explored these Interactive Environments –– today we're calling them Interactive Documentation Environments –– the more we thought they were particularly amazing for certain types of technical educational material, teaching, and distributing some types of documentation.
+
+
+---
+
+## Code + Docs + Notes
 
 - Swift Playgrounds
 
