@@ -160,9 +160,23 @@ theme: Merriweather
 
 ---
 
+## Core Features
+
+- live code 
+- pretty formatting
+- ability to add new notes
+- media rich (gifs, videos, etc.)
+- real programming, not a special wrapper
+
+^ TIM: Core features of interactive documentation environments...
+
+^ PARIS: Live code, pretty formattting, etc.
+
+---
+
 ![inline](images/swift.png)
 
-^ TIM: We haven't really got time to go through all of these in detail, so we're going to focus the most on the one we have the most experience with.
+^ TIM: We haven't really got time to go through all three environments we mentioned in detail, so we're going to focus the most on the one we have the most experience with.
 
 ^ PARIS: Playgrounds, which are part of Apple's Swift.
 
@@ -197,6 +211,8 @@ theme: Merriweather
 ^ PARIS: But the Swift REPL, which is the bulk of Playgrounds, is open source.
 
 ^ TIM: everything you see in Playgrounds with us today is part of Apple's Xcode, which is free for Macs.
+
+^ PARIS: Playgrounds have all the features we mentioned earlier, as part of a documentation environment.
 
 ---
 
@@ -233,6 +249,7 @@ theme: Merriweather
 - Started in 2014
 - Supports multiple languages
 - Otherwise the same as IPython Notebooks
+- Used by O'Reilly Media for "Oriole"
 
 ^ TIM: successor to IPYthon... <talk about them>
 	
@@ -287,6 +304,13 @@ theme: Merriweather
 ![](images/jupiter.png)
 
 ## [fit] Project Jupyter
+
+---
+
+# [fit] O'Reilly Oriole
+
+![](images/tarsier.jpg)
+
 
 ---
 
