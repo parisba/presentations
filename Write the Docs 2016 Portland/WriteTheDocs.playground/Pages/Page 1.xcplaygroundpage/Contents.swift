@@ -27,6 +27,13 @@ for 📦 in 🌍.characters {
 print(💩)
 
 /*:
+ - important:
+ "Never use emoji in your code."
+ \
+ –Plato
+ */
+
+/*:
 - - -
 [Next](@next)
 */
