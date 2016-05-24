@@ -293,7 +293,7 @@ theme: Merriweather
 - Can change things on the fly
 - Mixed Media
 
-^ in theory we've had all this for a while but people have only really started using it
+^ TIM: in theory we've had all this for a while but people have only really started using it
 
 ---
 
@@ -326,7 +326,7 @@ theme: Merriweather
 - Doesn't hook into docs tools
 - Only really works for narratives
 
-^ for example playgrounds only support markdown
+^ PARIS: for example playgrounds only support markdown and HTML
 
 ---
 
@@ -337,6 +337,8 @@ theme: Merriweather
 - This will replace/become books & articles
 - Better support for non-narrative documentation
 - More integration with video and screensharing
+
+^ TIM: chime in here
 
 ---
 
