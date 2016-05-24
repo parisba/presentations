@@ -31,13 +31,17 @@ theme: Merriweather
 
 ![filtered](images/edna.jpg)
 ### [fit] We Speak Australian
-^ PARIS: We speak Australia. 
+^ PARIS: We speak Australian. 
 
 ^ TIM: Please tell us if we say something you don't understand! 
 
 ^ PARIS: We're really excited to be speaking here, and we're thoroughly enjoying this conference so far.
 
-^ TIM: Thanks to everyone who makes it happen. *Tim does his bingo joke*
+^ TIM: Thanks to everyone who makes it happen. 
+
+^ <TIM MAKES A MARK ON BINGO SHEET> 
+    
+^ TIM: Thank a volunteer... ok, bingo.
 
 ---
 
@@ -77,8 +81,6 @@ theme: Merriweather
 
 ^ We think a lot about documentation, as one of the main things we do is write documentation, often in the form of books.
 
-^ all started because we wanted a closer linkage between our books and the provided code
-
 ---
 
 ![](images/lost.jpg)
@@ -90,7 +92,7 @@ theme: Merriweather
 ---
 
 > I find the documentation and my own notes living alongside the code to be incredibly handy. It means I don't get lost learning this language and APIs.
--- feedback Swift training in Melbourne, May 2016
+-- feedback from Swift training in Melbourne, May 2016
 
 ^ PARIS: This is a quote from one of our past training participants.
 
@@ -140,12 +142,6 @@ theme: Merriweather
 
 ^ PARIS: Swift is Apple's new language. And is open source under the Apache License.
 
-^ TIM: Playgrounds, which we're talking about here, are not open source ... yet. 
-
-^ PARIS: But the Swift REPL, which is the bulk of Playgrounds, is open source.
-
-^ TIM: everything you see in Playgrounds with us today is part of Apple's Xcode, which is free for Macs.
-
 ^ TIM: We're a bit biased, but we think Swift is the bees knees!
 
 ---
@@ -158,15 +154,21 @@ theme: Merriweather
 - can be paginated
 - supports Markdown (yay?!) and HTML
 
+^ TIM: Playgrounds, which we're talking about here, are not open source ... yet. 
+
+^ PARIS: But the Swift REPL, which is the bulk of Playgrounds, is open source.
+
+^ TIM: everything you see in Playgrounds with us today is part of Apple's Xcode, which is free for Macs.
+
 ---
 
 ## Markup in Playgrounds
 
 ![inline](images/markdown_playground.png)
 
-^ PARIS: Comment on Erik's opinions on markdown.
+^ PARIS: <Comment on Erik's opinions on markdown>
 
-^ TIM: these are still new. And we think it will get support for more later, apple already uses Sphinx..
+^ TIM: These are still new. And we think it will get support for more later, Apple already uses Sphinx..
 
 ---
 
@@ -205,6 +207,8 @@ theme: Merriweather
 ^ Paris: time to be gutsy
 
 ^ TIM: that's pjf, a super nice guy 
+
+^ TIM: Just in case our demos don't work, we've also got videos, which we hopefully won't have to fall back on. ANYWAY!
 
 ---
 
@@ -303,7 +307,7 @@ theme: Merriweather
 ---
 
 > I find the documentation and my own notes living alongside the code to be incredibly handy. It means I don't get lost learning this language and APIs.
--- feedback Swift training in Melbourne, May 2016
+-- feedback from Swift training in Melbourne, May 2016
 
 ^ PARIS: we are pretty aggressive about asking for feedback, it mostly works
 
@@ -362,7 +366,9 @@ theme: Merriweather
 - .. or find us on Twitter!
     - @the_mcjones (horse)
 	- @parisba (not horse)
-- Slides and notes will be online at: http://lonely.coffee and http://blog.paris.id.au
+- Slides and notes will be online at:
+    - http://lonely.coffee and 
+    - http://blog.paris.id.au
 
 
 
