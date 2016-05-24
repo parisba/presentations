@@ -234,13 +234,11 @@ theme: Merriweather
 
 ^ DEMO: Newton's Cradle
 
-^ shows off that they are super powerful
+^ this is a demo playground provided by apple
 
 ---
 
 ![](videos/playground_intro.mov)
-
-^ This is a quick run-through of 
 
 ---
 
@@ -323,7 +321,6 @@ theme: Merriweather
 - Limited language/framework support
 - Doesn't hook into docs tools
 - Only really works for narratives
-- Not every language/platform/thing
 
 ^ for example playgrounds only support markdown
 
@@ -347,6 +344,7 @@ theme: Merriweather
 - On something else? Download Jupyter Notebook
 	- The process is complex
 	- The docs for this are bad...
+	- or go to: https://try.jupyter.org
 
 ^ best way to learn is to mess around with it
 
