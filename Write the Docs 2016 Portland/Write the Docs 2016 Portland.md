@@ -5,34 +5,78 @@ theme: Merriweather
 
 # [fit] Code the Docs
 
+![](images/zork.jpg)
+
 # [fit] Interactive Documentation
 
 ---
 
 ![](images/timandparis.jpg)
 
-^ Hi, we're Tim and _Paris_, and we're here to talk about code-based documentation.
+^ PARIS: Hi! We're here to talk about Interactive Code-based Documentation
 
 ---
 
-## Tim (unicorn) and Paris (not unicorn)
+## Tim (unicorn)
+##  Paris (not unicorn)
+### @parisba and @the_mcjones
 
 ![](images/timandparis.jpg)
 
-^ Hi, we're Tim and _Paris_, and we're here to talk about code-based documentation.
+^ TIM: I'm Tim
+
+^ PARIS: And I'm Paris, you can find us on Twitter if you want!
 
 ---
 
 ![filtered](images/edna.jpg)
 ### [fit] We Speak Australian
+^ PARIS: We speak Australia. 
 
-^ Please tell us if we say something you don't understand
+^ TIM: Please tell us if we say something you don't understand! 
+
+^ PARIS: We're really excited to be speaking here, and we're thoroughly enjoying this conference so far.
+
+^ TIM: Thanks to everyone who makes it happen. *Tim does his bingo joke*
 
 ---
 
 ![](images/learningswift.jpg)
 
+^ PARIS: We think a lot about documentation, as one of the main things we do is write documentation, often in the form of books.
+
+---
+
+![](images/book1.jpg)
+
+^ TIM: We write a lot of books.
+
+---
+
+![](images/book2.png)
+
+^ PARIS: ... a lot of books.
+
+^ TIM: And this all started because we wanted a closer linkage between our books and the provided code.
+
+---
+
+### [fit] The Situation
+
+![](images/situation.jpg)
+
+^ TIM: We also present a lot of programmer training workshops, particularly teaching rapidly changing technologies such as game development, and Apple's developer environment –– Swift, previously Objective-C, and APIs like Cocoa and CocoaTouch for Mac and iPhone development.
+
+---
+
+### [fit] Code + Docs + Notes?!
+
+![](images/docs.png)
+
+^ PARIS: In the last 2 years of teaching these classes, particularly with Swift, Apple's new language, we've noticed that those in the class trying to learn the language have particularly enjoyed one component of the way Apple's frameworks and languages work: Swift Playgrounds.
+
 ^ We think a lot about documentation, as one of the main things we do is write documentation, often in the form of books.
+
 ^ all started because we wanted a closer linkage between our books and the provided code
 
 ---
@@ -41,8 +85,24 @@ theme: Merriweather
 
 ### [fit] People Get Lost
 
-^ People mess up where they are when moving between the code and the books
-^ People have a disconnect between what they see and what they do
+^ TIM: People mess up where they are when moving between the code and documentation.
+
+---
+
+> I find the documentation and my own notes living alongside the code to be incredibly handy. It means I don't get lost learning this language and APIs.
+-- feedback Swift training in Melbourne, May 2016
+
+^ PARIS: This is a quote from one of our past training participants.
+
+^ TIM: People have a disconnect between what they see and what they do.
+
+---
+
+### [fit] Code + Docs + Notes!
+
+![](images/docs.png)
+
+^ TIM: The more we explored these Interactive Environments –– today we're calling them Interactive Documentation Environments –– the more we thought they were particularly amazing for certain types of technical educational material, teaching, and distributing some types of documentation.
 
 ---
 
@@ -56,9 +116,15 @@ theme: Merriweather
 
 - ...and a few others
 
+^ PARIS: There's a bunch of different interactive programming environments like this, including Swift Playgrounds, IPython Notebooks, which are now known as Jupyter Notebooks, and a few others.
+
 ---
 
 ![inline](images/swift.png)
+
+^ TIM: We haven't really got time to go through all of these in detail, so we're going to focus the most on the one we have the most experience with.
+
+^ PARIS: Playgrounds, which are part of Apple's Swift.
 
 ---
 ## Swift 
@@ -71,7 +137,16 @@ theme: Merriweather
 - Windows support on the way
 
 [^1]: For more information on the Swift project, check out their website: http://swift.org/
-^ biased, but we think its the bees knees
+
+^ PARIS: Swift is Apple's new language. And is open source under the Apache License.
+
+^ TIM: Playgrounds, which we're talking about here, are not open source ... yet. 
+
+^ PARIS: But the Swift REPL, which is the bulk of Playgrounds, is open source.
+
+^ TIM: everything you see in Playgrounds with us today is part of Apple's Xcode, which is free for Macs.
+
+^ TIM: We're a bit biased, but we think Swift is the bees knees!
 
 ---
 
@@ -81,7 +156,7 @@ theme: Merriweather
 - each statement is evaluated and displayed
 - designed for prototyping, experimentation, and learning
 - can be paginated
-- supports Markdown (yay?!)
+- supports Markdown (yay?!) and HTML
 
 ---
 
@@ -89,9 +164,9 @@ theme: Merriweather
 
 ![inline](images/markdown_playground.png)
 
-^ Comment on Erik's opinions on markdown.
-^ these are still new
-^ we think it will get support for more later, apple already uses Sphinx
+^ PARIS: Comment on Erik's opinions on markdown.
+
+^ TIM: these are still new. And we think it will get support for more later, apple already uses Sphinx..
 
 ---
 
@@ -102,8 +177,9 @@ theme: Merriweather
 - designed for academic and scientific documentation
 - Supports text, equations, and graphs
 
-^ been around for a while
-^ rarely used to teach
+^ PARIS: been around for a while
+
+^ TIM: rarely used to teach
 
 ---
 
@@ -118,14 +194,17 @@ theme: Merriweather
 - Supports multiple languages
 - Otherwise the same as IPython Notebooks
 
+^ TIM: successor to IPYthon... <talk about them>
+	
 ---
 
 ## Demo-Gods I Summon Thee!
 
 ![fit right](images/paul.jpg)
 
-^ time to be gutsy
-^ that's pjf, a super nice guy
+^ Paris: time to be gutsy
+
+^ TIM: that's pjf, a super nice guy 
 
 ---
 
@@ -134,6 +213,7 @@ theme: Merriweather
 ## Swift Playgrounds
 
 ^ Let's take a more detailed look at Swift playgrounds, our favourite example of this sort of thing!
+
 ^ we think this basically because they are more or less designed for it
 
 ---
@@ -143,6 +223,7 @@ theme: Merriweather
 ![filtered](images/bird.jpg)
 
 ^ DEMO: Creating new documentation for something (maths)
+
 ^ put a bird on it
 
 ---
@@ -152,6 +233,7 @@ theme: Merriweather
 ![right fit](images/fine.jpg)
 
 ^ DEMO: Newton's Cradle
+
 ^ shows off that they are super powerful
 
 ---
@@ -173,25 +255,32 @@ theme: Merriweather
 ![left fit](images/dog.jpg)
 
 ^ our favourite example is ORMs regex golf video
-^ DEMO: This is a quick run through of a live browser training course talking about regex
-^ http://www.oreilly.com/oriole/
-^ Its based on an XKCD comic
-^ so we go through running each miniscript
-^ we can run the regex to see it fails
-^ meh who cares about fremont
-^ lets see if it works if we add trump in!
 
 ---
 
 ![](videos/orm_regex.mov)
 
-^ This is a quick run through of a live browser training course talking about regex
+^ DEMO: This is a quick run through of a live browser training course talking about regex
+
 ^ http://www.oreilly.com/oriole/
+
 ^ Its based on an XKCD comic
+
 ^ so we go through running each miniscript
+
 ^ we can run the regex to see it fails
+
 ^ meh who cares about fremont
+
 ^ lets see if it works if we add trump in!
+
+---
+
+### [fit] Strengths
+
+![](images/gaston.jpg)
+
+^ PARIS: So, what's the point of all this?
 
 ---
 
@@ -218,7 +307,13 @@ theme: Merriweather
 > I find the documentation and my own notes living alongside the code to be incredibly handy. It means I don't get lost learning this language and APIs.
 -- feedback Swift training in Melbourne, May 2016
 
-^ we are pretty aggressive about asking for feedback, it mostly works
+^ PARIS: we are pretty aggressive about asking for feedback, it mostly works
+
+---
+
+### [fit] Weaknesses
+
+![filtered](images/weaknesses.jpg)
 
 ---
 
@@ -246,6 +341,7 @@ theme: Merriweather
 
 ## Where to learn more...
 
+
 - On a Mac? Download Xcode from the App Store
     - Then play in Playgrounds.
 - On something else? Download Jupyter Notebook
@@ -268,8 +364,7 @@ theme: Merriweather
 - .. or find us on Twitter!
     - @the_mcjones (horse)
 	- @parisba (not horse)
-- Slides and notes available at:
-https://github.com/parisba/presentations
+- Slides and notes will be online at: http://lonely.coffee and http://blog.paris.id.au
 
 
 
