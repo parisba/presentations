@@ -82,7 +82,15 @@ theme: Merriweather
 - each statement is evaluated and displayed
 - designed for prototyping, experimentation, and learning
 - can be paginated
-- supports Markdown  
+- supports Markdown (yay?!)
+
+---
+
+## Markup in Playgrounds
+
+![inline](images/markdown_playground.png)
+
+^ Comment on Erik's opinions on markdown.
 
 ---
 
@@ -108,11 +116,11 @@ theme: Merriweather
 
 ---
 
-## Markup in Playgrounds
+## Demo-Gods I Summon Thee!
 
-![inline](images/markdown_playground.png)
+![fit right](images/paul.jpg)
 
-^ Comment on Erik's opinions on markdown.
+^ that's pjf, a super nice guy
 
 ---
 
@@ -121,6 +129,14 @@ theme: Merriweather
 ## Swift Playgrounds
 
 ^ Let's take a more detailed look at Swift playgrounds, our favourite example of this sort of thing!
+
+---
+
+## Live Demo!
+
+![filtered](images/bird.jpg)
+
+^ DEMO: Creating new documentation for something (maths)
 
 ---
 
@@ -138,15 +154,29 @@ theme: Merriweather
 
 ---
 
-## Project Jupyter Notebook
+![](images/jupiter.png)
 
-put a movie in of this!
+## [fit] Project Jupyter
 
 ---
 
-## Project Jupyter in the Browser
+## [fit] Live Demo!
 
-get a movie of http://www.oreilly.com/oriole/
+![left fit](images/dog.jpg)
+
+^ DEMO: orm regex vid
+
+---
+
+![](videos/orm_regex.mov)
+
+^ This is a quick run through of a live browser training course talking about regex
+^ http://www.oreilly.com/oriole/
+^ Its based on an XKCD comic
+^ so we go through running each miniscript
+^ we can run the regex to see it fails
+^ meh who cares about fremont
+^ lets see if it works if we add trump in!
 
 ---
 
@@ -159,18 +189,13 @@ get a movie of http://www.oreilly.com/oriole/
 
 ---
 
-## Notes and Code and Documentation
+![filtered](images/paper.jpg)
 
-- you can mix your notes in with the pre-written documentation
+# [fit] You can mix notes, live code, and docs
 
+^ this was sort of a suprise to us
+^ but we've found people REALLY like being able to do this
 
----
-
-## Live Demo!
-
-![filtered](images/bird.jpg)
-
-^ DEMO: Creating new documentation for something (maths)
 
 ---
 
@@ -198,8 +223,8 @@ get a movie of http://www.oreilly.com/oriole/
 
 - On a Mac? Download Xcode from the App Store
     - Then play in Playgrounds.
-- On something else? Download IPython
-	- Then ??
+- On something else? Download Jupyter Notebook
+	- The docs for this are bad...
 
 ---
 
