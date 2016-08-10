@@ -17,8 +17,8 @@ theme: Merriweather
 
 ---
 
-## Tim (unicorn)
 ##  Paris (not unicorn)
+## Tim (unicorn)
 ### @parisba and @the_mcjones
 
 ![](images/timandparis.jpg)
@@ -117,11 +117,15 @@ theme: Merriweather
 
 ![](images/boring.png)
 
+## [fit] **SNAKE IMAGE**
+
 ^ TIM: Interactive Documentation Environments take boring comment-riddled code, which is hard to read and learn from...
 
 ---
 
 ![](images/notboring.png)
+
+## [fit] **SNAKE IMAGE**
 
 ^ PARIS: And turn it into something with attractive formatting, and more documentation than just comments, whilst still being fully interactive.
 
@@ -150,11 +154,11 @@ theme: Merriweather
 
 ## Interactive document environments?
 
+- Jupyter Notebooks
+
+- ... successor to IPython Notebooks 
+
 - Swift Playgrounds
-
-- IPython Notebooks
-
-- ... which are now Jupyter Notebooks
 
 - ...and a few others
 
@@ -186,6 +190,34 @@ theme: Merriweather
 
 ---
 
+## IPython Notebooks
+
+- Interactive Python coding environment
+- large focus on academic and scientific documentation
+- Supports text, equations, and graphs
+
+^ PARIS: been around for a while
+
+^ TIM: rarely used to teach
+
+---
+
+![inline](images/jupyter.png)
+
+---
+
+## Project Jupyter
+
+- Successor to IPython
+- Started in 2014
+- Supports multiple languages
+- Otherwise the same as IPython Notebooks
+- Used by O'Reilly Media for "Oriole"
+
+^ TIM: successor to IPYthon... <talk about them>
+	
+---
+
 ![inline](images/swift.png)
 
 ^ TIM: We haven't really got time to go through all three environments we mentioned in detail, so we're going to focus the most on the one we have the most experience with.
@@ -193,6 +225,7 @@ theme: Merriweather
 ^ PARIS: Playgrounds, which are part of Apple's Swift.
 
 ---
+
 ## Swift 
 
 - Introduced 2 years ago by Apple
@@ -238,35 +271,6 @@ theme: Merriweather
 
 ---
 
-## IPython Notebooks
-
-- Interactive Python coding environment
-- works pretty much the same as Swift Playgrounds
-- large focus on academic and scientific documentation
-- Supports text, equations, and graphs
-
-^ PARIS: been around for a while
-
-^ TIM: rarely used to teach
-
----
-
-![inline](images/jupyter.png)
-
----
-
-## Project Jupyter
-
-- Successor to IPython
-- Started in 2014
-- Supports multiple languages
-- Otherwise the same as IPython Notebooks
-- Used by O'Reilly Media for "Oriole"
-
-^ TIM: successor to IPYthon... <talk about them>
-	
----
-
 ## Demo-Gods I Summon Thee!
 
 ![fit right](images/paul.jpg)
@@ -276,40 +280,6 @@ theme: Merriweather
 ^ TIM: that's pjf, a super nice guy 
 
 ^ TIM: Just in case our demos don't work, we've also got videos, which we hopefully won't have to fall back on. ANYWAY!
-
----
-
-![](images/playground.jpg)
-
-## Swift Playgrounds
-
-^ Let's take a more detailed look at Swift playgrounds, our favourite example of this sort of thing!
-
-^ we think this basically because they are more or less designed for it
-
----
-
-## Live Demo!
-
-![filtered](images/bird.jpg)
-
-^ DEMO: Creating new documentation for something (maths)
-
-^ put a bird on it
-
----
-
-## [fit] Live Demo!
-
-![right fit](images/fine.jpg)
-
-^ DEMO: Newton's Cradle
-
-^ this is a demo playground provided by apple
-
----
-
-![](videos/playground_intro.mov)
 
 ---
 
@@ -349,6 +319,40 @@ theme: Merriweather
 ^ meh who cares about fremont
 
 ^ lets see if it works if we add trump in!
+
+---
+
+![](images/playground.jpg)
+
+## Swift Playgrounds
+
+^ Let's take a more detailed look at Swift playgrounds, our favourite example of this sort of thing!
+
+^ we think this basically because they are more or less designed for it
+
+---
+
+## Live Demo!
+
+![filtered](images/bird.jpg)
+
+^ DEMO: Creating new documentation for something (maths)
+
+^ put a bird on it
+
+---
+
+## [fit] Live Demo!
+
+![right fit](images/fine.jpg)
+
+^ DEMO: Newton's Cradle
+
+^ this is a demo playground provided by apple
+
+---
+
+![](videos/playground_intro.mov)
 
 ---
 
