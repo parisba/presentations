@@ -6,7 +6,7 @@ import UIKit
  - - -
  First, we need to create the world and everything in it:
 */
-var 🌍 = "🚙📗🏠"
+var 🌍 = "🚙📗🏠Things"
 /*:
  * callout(Emoji is everywhere):
  Yep, Swift supports Emoji pretty much everywhere!

@@ -45,6 +45,11 @@ theme: Merriweather
 
 ---
 
+## Some things about us...
+![](images/timandparis.jpg)
+
+---
+
 ## We're academics
 
 ![left](images/phd.jpg)
@@ -138,6 +143,19 @@ theme: Merriweather
 
 ---
 
+![original](images/docs.png)
+
+
+^ TIM: it leads back to the idea of code+notes+docs in one. By putting the code you're documenting alongside the documentation, alongside an interactive output from the code, and allowing people to add their own notes and documentation...
+
+---
+
+![original](images/docs.png)
+
+^ PARIS: ... you end up with something quite useful!
+
+---
+
 ### [fit] Code + Docs + Notes!
 
 ![](images/docs.png)
@@ -171,6 +189,16 @@ theme: Merriweather
 ^ TIM: Core features of interactive documentation environments...
 
 ^ PARIS: Live code, pretty formattting, etc.
+
+---
+
+## We are not experts
+
+![](images/gaston-eggs.jpg)
+
+^ PARIS: We're not experts! We just really like this stuff, and think it's useful.
+
+^ TIM: And want to share!
 
 ---
 
@@ -309,7 +337,7 @@ theme: Merriweather
 
 # [fit] O'Reilly Oriole
 
-![](images/tarsier.jpg)
+![right](images/tarsier.jpg)
 
 
 ---
@@ -383,6 +411,7 @@ theme: Merriweather
 
 ## Weaknesses 
 
+- Only Markdown(ish) and HTML(ish)
 - Kinda crashy...
 - Limited language/framework support
 - Doesn't hook into docs tools
@@ -421,9 +450,9 @@ theme: Merriweather
 ## O'Reilly Oriole
 
 - Try Regex Golf:
-    - https://www.oreilly.com/learning/regex-golf-with-peter-norvig
+    - oreilly.com/learning/regex-golf-with-peter-norvig
 - Learn more about Oriole:
-    - https://www.oreilly.com/ideas/oreilly-oriole-learn-alongside-innovators-thought-by-thought-in-context
+    - oreilly.com/ideas/oreilly-oriole-learn-alongside-innovators-thought-by-thought-in-context
 
 ---
 
