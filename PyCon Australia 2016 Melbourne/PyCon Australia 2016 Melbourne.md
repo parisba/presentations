@@ -211,7 +211,7 @@ theme: Merriweather
 - Successor to IPython
 - Started in 2014
 - Supports multiple languages
-- Otherwise the same as IPython Notebooks
+- Otherwise similar to IPython Notebooks
 - Used by O'Reilly Media for "Oriole"
 
 ^ TIM: successor to IPYthon... <talk about them>
@@ -251,7 +251,7 @@ theme: Merriweather
 - can be paginated
 - supports Markdown and HTML
 
-^ TIM: Playgrounds, which we're talking about here, are not open source ... yet. 
+^ TIM: Playgrounds, which we're talking about here, are being open sourced slowly.
 
 ^ PARIS: But the Swift REPL, which is the bulk of Playgrounds, is open source.
 
@@ -265,7 +265,7 @@ theme: Merriweather
 
 ![inline](images/markdown_playground.png)
 
-^ PARIS: <Comment on Erik's opinions on markdown>
+^ PARIS: Markdown is pretty well supported in Playgrounds.
 
 ^ TIM: These are still new. And we think it will get support for more later, Apple already uses Sphinx..
 
@@ -334,16 +334,6 @@ theme: Merriweather
 
 ---
 
-## Live Demo!
-
-![filtered](images/bird.jpg)
-
-^ DEMO: Creating new documentation for something (maths)
-
-^ put a bird on it
-
----
-
 ## [fit] Live Demo!
 
 ![right fit](images/fine.jpg)
@@ -355,6 +345,12 @@ theme: Merriweather
 ---
 
 ![](videos/playground_intro.mov)
+
+---
+
+### [fit] Swift Playgrounds even comes with, and works on, iPads as of iOS 10
+
+## [fit] PUT VIDEO OF IPAD PLAYGROUNDS HERE
 
 ---
 
@@ -428,6 +424,8 @@ theme: Merriweather
 
 - On a Mac? Download Xcode from the App Store
     - Then play in Playgrounds.
+- Got an iPad? Install iOS 10
+	- Then play in Playgrounds.
 - On something else? Download Jupyter Notebook
 	- The process is complex
 	- The docs for this are bad...
