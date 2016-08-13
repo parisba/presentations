@@ -303,7 +303,7 @@ theme: Merriweather
 
 ---
 
-![](videos/jupyterdemo.mv)
+![](videos/jupyterdemo.mov)
 
 ---
 
