@@ -117,15 +117,11 @@ theme: Merriweather
 
 ![](images/boring.png)
 
-## [fit] **SNAKE IMAGE**
-
 ^ TIM: Interactive Documentation Environments take boring comment-riddled code, which is hard to read and learn from...
 
 ---
 
 ![](images/notboring.png)
-
-## [fit] **SNAKE IMAGE**
 
 ^ PARIS: And turn it into something with attractive formatting, and more documentation than just comments, whilst still being fully interactive.
 
@@ -215,6 +211,7 @@ theme: Merriweather
 - Used by O'Reilly Media for "Oriole"
 
 ^ TIM: successor to IPYthon... <talk about them>
+^ Makes sure to mention it can be used for presentations
 	
 ---
 
@@ -306,6 +303,10 @@ theme: Merriweather
 
 ---
 
+![](videos/jupyterdemo.mv)
+
+---
+
 ![](videos/orm_regex.mov)
 
 ^ DEMO: This is a quick run through of a live browser training course talking about regex
@@ -348,9 +349,9 @@ theme: Merriweather
 
 ---
 
-### [fit] Swift Playgrounds even comes with, and works on, iPads as of iOS 10
+![](videos/iPadSwift.mov)
 
-## [fit] PUT VIDEO OF IPAD PLAYGROUNDS HERE
+^ swift playgrounds on the ipad are awesome
 
 ---
 
