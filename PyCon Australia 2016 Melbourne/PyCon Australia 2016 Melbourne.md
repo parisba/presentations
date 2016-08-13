@@ -221,8 +221,8 @@ theme: Merriweather
 ![inline](images/swift.png)
 
 ^ TIM: We haven't really got time to go through all three environments we mentioned in detail, so we're going to focus the most on the one we have the most experience with.
-
-^ PARIS: Playgrounds, which are part of Apple's Swift.
+ 
+^ PARIS: Playgrounds, which are part of Apple's Swift. We'll look at the more Pythonic Jupyter Notebooks a bit later, too.
 
 ---
 
@@ -286,6 +286,8 @@ theme: Merriweather
 ![](images/jupiter.png)
 
 ## [fit] Project Jupyter
+
+^ JUMP TO DEMO OF JUPYTER NOW! JUMP!
 
 ---
 
