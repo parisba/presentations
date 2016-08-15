@@ -226,7 +226,7 @@ theme: Merriweather
 ## Swift 
 
 - Introduced 2 years ago by Apple
-- Currently at version 2.2
+- Currently at version 2.3
 - Made open source in December 2015[^1]
 - Apache License 2.0
 - Currently supports OS X and Linux
@@ -235,6 +235,8 @@ theme: Merriweather
 [^1]: For more information on the Swift project, check out their website: http://swift.org/
 
 ^ PARIS: Swift is Apple's new language. And is open source under the Apache License.
+
+^ PARIS: Swift 3 is just around the corner
 
 ^ TIM: We're a bit biased, but we think Swift is the bees knees!
 
@@ -284,26 +286,17 @@ theme: Merriweather
 
 ## [fit] Project Jupyter
 
-^ JUMP TO DEMO OF JUPYTER NOW! JUMP!
+^ TIM: JUMP TO DEMO OF JUPYTER NOW! JUMP!
+
+---
+
+![](videos/jupyterdemo.mov)
 
 ---
 
 # [fit] O'Reilly Oriole
 
 ![right](images/tarsier.jpg)
-
-
----
-
-## [fit] Live Demo!
-
-![left fit](images/dog.jpg)
-
-^ our favourite example is ORMs regex golf video
-
----
-
-![](videos/jupyterdemo.mov)
 
 ---
 
@@ -329,7 +322,7 @@ theme: Merriweather
 
 ## Swift Playgrounds
 
-^ Let's take a more detailed look at Swift playgrounds, our favourite example of this sort of thing!
+^ PATRIS: Let's take a more detailed look at Swift playgrounds, our favourite example of this sort of thing!
 
 ^ we think this basically because they are more or less designed for it
 
@@ -378,8 +371,9 @@ theme: Merriweather
 
 # [fit] You can mix notes, live code, and docs
 
-^ this was sort of a suprise to us
-^ but we've found people REALLY like being able to do this
+^ PARIS: That people liked mixing their personal notes with the code was sort of a suprise to us
+
+^ TIM: but we've found people REALLY like being able to do this
 
 ---
 
@@ -394,6 +388,8 @@ theme: Merriweather
 
 ![filtered](images/weaknesses.jpg)
 
+^ PARIS: Let's talk about some weaknesses of the current interactive documentation environments..
+
 ---
 
 ## Weaknesses 
@@ -403,6 +399,8 @@ theme: Merriweather
 - Limited language/framework support
 - Doesn't hook into docs tools
 - Only really works for narratives
+
+^ PARIS: go through list
 
 ^ PARIS: for example playgrounds only support markdown and HTML
 
@@ -416,7 +414,9 @@ theme: Merriweather
 - Better support for non-narrative documentation
 - More integration with video and screensharing
 
-^ TIM: chime in here
+^ TIM: So, what's next with these things?
+
+^ TIM: go through list of what's next chime in here
 
 ---
 
@@ -427,12 +427,11 @@ theme: Merriweather
     - Then play in Playgrounds.
 - Got an iPad? Install iOS 10
 	- Then play in Playgrounds.
-- On something else? Download Jupyter Notebook
-	- The process is complex
-	- The docs for this are bad...
-	- or go to: https://try.jupyter.org
+- On something else? Download Jupyter Notebooks
+	- The process is complex and poorly documented
+	- https://try.jupyter.org
 
-^ best way to learn is to mess around with it
+^ PARIS: warble best way to learn is to mess around with it
 
 ---
 
@@ -442,6 +441,8 @@ theme: Merriweather
     - oreilly.com/learning/regex-golf-with-peter-norvig
 - Learn more about Oriole:
     - oreilly.com/ideas/oreilly-oriole-learn-alongside-innovators-thought-by-thought-in-context
+	
+^ PARIS: or try ORM thingy
 
 ---
 
@@ -453,13 +454,13 @@ theme: Merriweather
 
 ## Thanks!
 
-- Questions? Find us up the front..
+- Questions?
 - .. or find us on Twitter!
-    - @the_mcjones (horse)
-	- @parisba (not horse)
+    - @the_mcjones (horse) and @parisba (not horse)
 - Slides and notes will be online at:
     - http://lonely.coffee and 
     - http://blog.paris.id.au
+- https://youtu.be/kfqlRzDq4MA
 
 
 
